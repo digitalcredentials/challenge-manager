@@ -23,6 +23,8 @@
   "module": "dist/esm/index.js",
   "types": "dist/index.d.ts",
   "dependencies": {
+    "crypto": "^1.0.1",
+    "keyv": "^4.5.2"
   },
   "devDependencies": {
     "@types/chai": "^4.3.4",

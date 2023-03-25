@@ -1,9 +1,6 @@
-# Example Isomorphic TS/JS Lib Template _(@digitalcredentials/isomorphic-lib-template)_
+# ChallengeManager for VC API exchange endpoint 
 
-[![Build status](https://img.shields.io/github/actions/workflow/status/digitalcredentials/isomorphic-lib-template/main.yml?branch=main)](https://github.com/digitalcredentials/isomorphic-lib-template/actions?query=workflow%3A%22Node.js+CI%22)
-[![NPM Version](https://img.shields.io/npm/v/@digitalcredentials/isomorphic-lib-template.svg)](https://npm.im/@digitalcredentials/isomorphic-lib-template)
-
-> A Typescript/Javascript isomorphic library template, for use in the browser, Node.js, and React Native.
+> A Typescript/Javascript package for managing challenges in VC-API exchanges.
 
 ## Table of Contents
 
@@ -57,4 +54,4 @@ If editing the Readme, please conform to the
 
 ## License
 
-[MIT License](LICENSE.md) © 2022 Digital Credentials Consortium.
+[MIT License](LICENSE.md) © 2023 Digital Credentials Consortium.
